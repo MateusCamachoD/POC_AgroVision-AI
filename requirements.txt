@@ -1,0 +1,14 @@
+# AgroVision AI - Requirements
+# Dependências necessárias para executar a aplicação
+
+# Framework Web
+streamlit>=1.52.0
+
+# Processamento de Imagens
+Pillow>=12.0.0
+
+# Computação Numérica
+numpy>=2.0.0
+
+# Utilitários
+python-dateutil>=2.8.0
